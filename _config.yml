@@ -21,6 +21,8 @@ title: Your awesome title
 # If you wish to use the gem-version of Minima with or without a Gemfile, use
 #   the following setting:
 theme: minima
+nav_pages:
+    about.md
 
 #
 #   Specific pages for site navigation.
