@@ -58,9 +58,9 @@ theme: minima
 #     part of social-links list.
 #   hide_site_feed_link: false
 social_links:
-    - title: Minima Theme repository at GitHub
-     icon: github
-     url: "https://github.com/jekyll/minima"
-    - title: Jekyll at X (formerly Twitter)
-     icon: x-twitter
-     url: "https://x.com/jekyllrb"
+    title: Minima Theme repository at GitHub
+    icon: github
+    url: "https://github.com/jekyll/minima"
+    title: Jekyll at X (formerly Twitter)
+    icon: x-twitter
+    url: "https://x.com/jekyllrb"
