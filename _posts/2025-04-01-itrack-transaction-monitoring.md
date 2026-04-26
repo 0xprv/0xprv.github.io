@@ -222,10 +222,7 @@ This software allows assigning specific roles and permissions to individual user
 
 The global logs record all different actions happening on the software—from creation to deletion of entities. It records every possible CRUD operation and user interaction for auditing purposes by administrators.
 
-<video width="100%" controls>
-  <source src="/assets/globallog.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<video src="/assets/globallog.mp4" width="100%" controls></video>
 
 ### Custom Email Templates
 
