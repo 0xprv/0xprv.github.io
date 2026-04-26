@@ -4,8 +4,8 @@ author:
   name: Pranav Vishnoi
   email: pranav.vishnoi.dev@gmail.com
 
-baseurl: "https://0xprv.github.io/" 
-url: "https://0xprv.github.io/"
+baseurl: "" 
+url: ""
 
 theme: minima
 
