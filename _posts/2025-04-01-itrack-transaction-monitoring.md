@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Realtime Monitoring of Bank Transactions using AI/ML (Nigeria)"
+date: 2025-04-01
+categories: [projects, fintech, ai]
+tags: [java, springboot, rust, python, typescript, machine-learning, fraud-detection]
+---
+
 # Bank Surveillance & Monitoring ML Based Software For Nigeria - Itrack
 
 **Published:** February 1, 2025
