@@ -4,12 +4,8 @@ author:
   name: Pranav Vishnoi
   email: pranav.vishnoi.dev@gmail.com
 
-description: >
-  Personal portfolio and blog of Pranav Vishnoi focused on software engineering,
-  system design, and advanced architecture concepts.
-
-baseurl: "" 
-url: "https://pranavvishnoi.github.io"
+baseurl: "https://0xprv.github.io/" 
+url: "https://0xprv.github.io/"
 
 theme: minima
 
