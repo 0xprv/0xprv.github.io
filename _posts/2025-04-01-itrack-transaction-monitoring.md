@@ -168,7 +168,7 @@ Non-real-time rules work differently from real-time ones. Instead of processing 
  
 Since these rules are more resource-intensive, they are executed in the background using Rust threads for better performance and parallel processing.
  
-![Rule Explanation Diagram](/assets/itrack/rule_expl.png)
+![Rule Explanation Diagram](/assets/rule_expl.png)
  
 ---
  
@@ -224,11 +224,11 @@ In this software, users can create custom HTML email templates and configure the
  
 You can view overall performance data and track the operations performed by the software, including how much data has been processed, all within interactive dashboards.
  
-![Dashboard 1](/assets/itrack/dash1.png)
+![Dashboard 1](/assets/dash1.png)
  
-![Dashboard 2](/assets/itrack/dash2.png)
+![Dashboard 2](/assets/dash2.png)
  
-![Dashboard 3](/assets/itrack/dash3.png)
+![Dashboard 3](/assets/dash3.png)
  
 ### Case Management
  
