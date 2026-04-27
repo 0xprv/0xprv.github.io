@@ -1,10 +1,10 @@
-# 🚀 Experience & Achievements
+# Experience & Achievements
 
 ---
 
-## 💼 Experience
+## Experience
 
-### Lead Software Engineer — LLM Voice Assistant Platform  
+### [Freelancing Software Engineer — LLM Voice Assistant Platform](https://0xprv.github.io/projects/ai/voip/2025/02/01/llmagent.html) 
 **Feb 2025 – Aug 2025**
 
 - Architected and built an enterprise-grade AI voice assistant platform automating customer service workflows  
@@ -20,7 +20,22 @@
 
 ---
 
-### Level 2 Freelancer (5★, 15+ Projects)  
+### [Software Engineer (Lead) — ITrack Financial Systems](https://0xprv.github.io/projects/fintech/ai/2025/04/01/itrack-transaction-monitoring.html)
+**Jul 2024 – Mar 2025**
+
+- Architected and developed a real-time banking transaction monitoring system processing **100K+ daily transactions**
+- Reduced fraud detection time by **85%** through optimized event-driven architecture
+- Built **10 high-performance background services in Rust**, integrated with Kafka, handling **50K+ transactions/min** with **99.9% uptime**
+- Implemented machine learning models + deterministic rule engines, improving anomaly detection accuracy by **40%**
+- Designed and managed complex workflows using **Spring Boot** with **40+ PostgreSQL entities**
+- Automated case assignment workflows, reducing manual processing time by **70%** and improving investigation response speed
+
+**Tech Stack:**  
+`Rust` • `Apache Kafka` • `Spring Boot` • `PostgreSQL` • `Machine Learning`
+
+---
+
+### [Level 2 Freelancer (5★, 15+ Projects)](https://www.fiverr.com/users/pranav192004)  
 **Nov 2022 – Present**
 
 - Delivered production-grade backend systems, AI solutions, and scalable architectures  
@@ -31,7 +46,7 @@
 
 ## 🏆 Hackathons & Recognition
 
-### 🥇 1st Place — AI Decentralized Identity Hackathon (DIF Global 2024)  
+### [🥇 1st Place — AI Decentralized Identity Hackathon DIF Global 2024](https://devpost.com/software/test-7gtomq)
 **Oct 2024 – Nov 2024**
 
 - Won **1st place among 150+ teams**  
@@ -44,9 +59,9 @@
 `ZKP` • `Python` • `React (TypeScript)` • `Rust` • `JavaScript`
 
 
-## 📚 Contributions
+## Contributions
 
-### Deep Learning Course Creator  
+### [Deep Learning Course Creator](https://www.udemy.com/course/deep-dive-into-deep-learning-2023-24-cchat-gpt-more/)
 **Apr 2024 – Jul 2024**
 
 - Designed and developed a structured deep learning course  
