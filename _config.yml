@@ -22,6 +22,7 @@ minima:
 
   nav_pages:
     - about.md
+    - achv_exp.md
 
   show_excerpts: true
 
