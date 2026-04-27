@@ -44,7 +44,8 @@ I’ve also:
 - AI/ML Systems (PyTorch)
 - LLMs & RAG Architectures
 - Go-based Backend & Cloud Infrastructure
-- Freelancing for startups  
+- Freelancing for startups
+- [Side Venture SaaS Business In Derivative Option Market, With My Stock Market Partner](https://greekspulse.in)
 
 ---
 
@@ -71,7 +72,8 @@ I’ve also:
 - Advanced deep learning systems in PyTorch  
 - Optimized LLM + RAG architectures  
 - High-performance backend systems in Go  
-- System & data architecture design  
+- System & data architecture design
+- IIT Madras Diploma In Data Sceince
 
 ---
 
