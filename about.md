@@ -63,7 +63,7 @@ I’ve also:
 
 ## 💻 Languages
 
-`C` • `Go` • `Python` • `JavaScript / TypeScript` • `Java` • `Rust`
+`C` • `Go` • `Python` • `JavaScript / TypeScript` • `Java` • `Bash`
 
 ---
 
