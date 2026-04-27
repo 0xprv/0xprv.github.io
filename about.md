@@ -39,7 +39,7 @@ I’ve also:
 
 ---
 
-## 🚧 Current Work
+## Current Work
 
 - AI/ML Systems (PyTorch)
 - LLMs & RAG Architectures
@@ -49,7 +49,7 @@ I’ve also:
 
 ---
 
-## 🧠 Knowledge & Skills
+## Knowledge & Skills
 
 - AI/ML with **PyTorch (Advanced)**
 - LLMs, RAGs, and applied AI systems
@@ -61,13 +61,13 @@ I’ve also:
 
 ---
 
-## 💻 Languages
+## Languages
 
 `C` • `Go` • `Python` • `JavaScript / TypeScript` • `Java` • `Bash`
 
 ---
 
-## 📚 Currently Learning / Refining
+## Currently Learning / Refining
 
 - Advanced deep learning systems in PyTorch  
 - Optimized LLM + RAG architectures  
@@ -77,7 +77,7 @@ I’ve also:
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 - 🥇 1st Place — DIF 2024 Hackathon  
   🔗 https://devpost.com/thedatafusion2023  
@@ -90,7 +90,7 @@ I’ve also:
 
 ---
 
-## 🏆 Talks
+## Talks
 
 ~ My Conversation from timestamp **48:00** to **53:10**  
 Alongside with DIF24 winners  
