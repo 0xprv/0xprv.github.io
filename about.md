@@ -89,3 +89,10 @@ I’ve also:
   🔗 https://www.udemy.com/course/deep-dive-into-deep-learning-2023-24-cchat-gpt-more/
 
 ---
+
+## 🏆 Talks
+
+~ My Conversation from timestamp **48:00** to **53:10**  
+Alongside with DIF24 winners  
+
+👉 https://twitter.com/user/status/1869819527170797972
