@@ -1,4 +1,4 @@
-# Experience & Achievements
+# Experience / Achievements
 
 ---
 
